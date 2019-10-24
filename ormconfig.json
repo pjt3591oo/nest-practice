@@ -1,0 +1,15 @@
+[{
+    "name": "default",
+    "type": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "password",
+    "database": "test"
+}, {
+    "name": "test",
+    "type": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "password",
+    "database": "test"
+}]
